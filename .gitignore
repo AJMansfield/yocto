@@ -47,3 +47,4 @@ downloads/
 sstate-cache/
 toaster.sqlite
 .vscode/
+*.lock
