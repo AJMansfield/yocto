@@ -1,0 +1,3 @@
+[submodule "meta-micropython"]
+	path = meta-micropython
+	url = ../imyller/meta-micropython.git
